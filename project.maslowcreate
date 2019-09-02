@@ -2,13 +2,60 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Maslow 4 Sled",
-            "x": 0,
-            "y": 0,
-            "uniqueID": 965116,
+            "name": "Outline",
+            "x": 192,
+            "y": 129,
+            "uniqueID": 786886,
             "ioValues": [],
-            "topLevel": true,
+            "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 114,
+                    "y": 58,
+                    "uniqueID": 604102,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 80
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Circle",
+                    "name": "Circle",
+                    "x": 102,
+                    "y": 201,
+                    "uniqueID": 480952,
+                    "ioValues": [
+                        {
+                            "name": "diameter",
+                            "ioValue": 450
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Difference",
+                    "name": "Difference",
+                    "x": 243,
+                    "y": 149,
+                    "uniqueID": 913891,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 539,
+                    "y": 92,
+                    "uniqueID": 780435,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 20
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -17,7 +64,65 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry2",
+                    "ap1ID": 604102,
+                    "ap2ID": 913891
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry1",
+                    "ap1ID": 480952,
+                    "ap2ID": 913891
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 913891,
+                    "ap2ID": 780435
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 780435
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Maslow 4 Sled",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 965116,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Outline",
+                    "x": 192,
+                    "y": 129,
+                    "uniqueID": 786886,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 786886
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
