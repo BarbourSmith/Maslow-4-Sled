@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Outline",
-            "x": 192,
-            "y": 129,
+            "x": 212,
+            "y": 72,
             "uniqueID": 786886,
             "ioValues": [],
             "topLevel": false,
@@ -97,6 +97,73 @@
         },
         {
             "atomType": "Molecule",
+            "name": "Linear Slides",
+            "x": 212,
+            "y": 155,
+            "uniqueID": 614614,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "20MM Linear Slide",
+                    "x": 278,
+                    "y": 77,
+                    "uniqueID": 234681,
+                    "projectID": "229493907",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "20MM Linear Slide",
+                    "x": 292,
+                    "y": 167,
+                    "uniqueID": 959087,
+                    "projectID": "229493907",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "20MM Linear Slide",
+                    "x": 449,
+                    "y": 218,
+                    "uniqueID": 379831,
+                    "projectID": "229493907",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 163.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Motor and Riser",
+            "x": 208,
+            "y": 235,
+            "uniqueID": 947679,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 163.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Maslow 4 Sled",
             "x": 0,
             "y": 0,
@@ -107,9 +174,25 @@
                 {
                     "atomType": "Molecule",
                     "name": "Outline",
-                    "x": 192,
-                    "y": 129,
+                    "x": 212,
+                    "y": 72,
                     "uniqueID": 786886,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Linear Slides",
+                    "x": 212,
+                    "y": 155,
+                    "uniqueID": 614614,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Motor and Riser",
+                    "x": 208,
+                    "y": 235,
+                    "uniqueID": 947679,
                     "ioValues": []
                 },
                 {
