@@ -3,8 +3,10 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |ET-WGM58AE|1|$11.00|http://www.etonm.com/|
+|8mm Lead Screw|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
+|8mm Shaft Coupler|1|$2.70|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
 |20mm Shaft Support|2|$4.00|https://www.mcwww.example.commaster.com/62645k42|
 |20mm Linear Rod|2|$4.00|www.example.com|
-|Total: |5|$19.00| |
+|Total: |7|$26.70| |
 
- 3xCOG MSRP: $57.00
+ 3xCOG MSRP: $80.10

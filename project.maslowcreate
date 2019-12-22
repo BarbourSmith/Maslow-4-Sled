@@ -281,17 +281,26 @@
                 {
                     "atomType": "GitHubMolecule",
                     "name": "8mm to 8mm Shaft Coupler",
-                    "x": 124,
-                    "y": 187,
+                    "x": 85,
+                    "y": 142,
                     "uniqueID": 771446,
                     "projectID": "229323413",
                     "ioValues": []
                 },
                 {
+                    "atomType": "GitHubMolecule",
+                    "name": "8mm Lead Screw",
+                    "x": 92,
+                    "y": 223,
+                    "uniqueID": 243692,
+                    "projectID": "229500250",
+                    "ioValues": []
+                },
+                {
                     "atomType": "Rotate",
                     "name": "Rotate",
-                    "x": 287,
-                    "y": 85,
+                    "x": 297,
+                    "y": 53,
                     "uniqueID": 139824,
                     "ioValues": [
                         {
@@ -311,8 +320,8 @@
                 {
                     "atomType": "Translate",
                     "name": "Translate",
-                    "x": 315,
-                    "y": 191,
+                    "x": 295,
+                    "y": 124,
                     "uniqueID": 682644,
                     "ioValues": [
                         {
@@ -325,15 +334,36 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": 5
+                            "ioValue": 4
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 296,
+                    "y": 200,
+                    "uniqueID": 734925,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 15
                         }
                     ]
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 534,
-                    "y": 155,
+                    "x": 605,
+                    "y": 99,
                     "uniqueID": 243535,
                     "ioValues": [
                         {
@@ -342,6 +372,10 @@
                         },
                         {
                             "name": "3D shape 2",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 3",
                             "ioValue": 10
                         }
                     ],
@@ -406,11 +440,11 @@
                     "ap2ID": 682644
                 },
                 {
-                    "ap1Name": "geometry",
+                    "ap1Name": "Geometry",
                     "ap2Name": "geometry",
                     "ap2Primary": true,
-                    "ap1ID": 139824,
-                    "ap2ID": 849776
+                    "ap1ID": 243692,
+                    "ap2ID": 734925
                 },
                 {
                     "ap1Name": "geometry",
@@ -425,6 +459,20 @@
                     "ap2Primary": false,
                     "ap1ID": 682644,
                     "ap2ID": 243535
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 3",
+                    "ap2Primary": false,
+                    "ap1ID": 734925,
+                    "ap2ID": 243535
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 243535,
+                    "ap2ID": 849776
                 },
                 {
                     "ap1Name": "geometry",
