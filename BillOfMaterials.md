@@ -2,8 +2,9 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|ET-WGM58AE|1|$11.00|http://www.etonm.com/|
 |20mm Shaft Support|2|$4.00|https://www.mcwww.example.commaster.com/62645k42|
 |20mm Linear Rod|2|$4.00|www.example.com|
-|Total: |4|$8.00| |
+|Total: |5|$19.00| |
 
- 3xCOG MSRP: $24.00
+ 3xCOG MSRP: $57.00
