@@ -90,26 +90,6 @@
                     ]
                 },
                 {
-                    "atomType": "Molecule",
-                    "name": "Hardware",
-                    "x": 0.06808199121522694,
-                    "y": 0.8390804597701149,
-                    "uniqueID": 852184,
-                    "ioValues": [],
-                    "topLevel": false,
-                    "allAtoms": [
-                        {
-                            "atomType": "Output",
-                            "name": "Output",
-                            "x": 0.9853587115666179,
-                            "y": 0.5,
-                            "ioValues": []
-                        }
-                    ],
-                    "allConnectors": [],
-                    "fileTypeVersion": 1
-                },
-                {
                     "atomType": "Translate",
                     "name": "Translate",
                     "x": 0.5329428989751098,
@@ -129,6 +109,57 @@
                             "ioValue": 10
                         }
                     ]
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Hardware",
+                    "x": 0.07540263543191801,
+                    "y": 0.842911877394636,
+                    "uniqueID": 852184,
+                    "ioValues": [],
+                    "topLevel": false,
+                    "allAtoms": [
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "M6x25 Bolt",
+                            "x": 0.17862371888726208,
+                            "y": 0.3563218390804597,
+                            "uniqueID": 240146,
+                            "projectID": "267625935",
+                            "ioValues": []
+                        },
+                        {
+                            "atomType": "GitHubMolecule",
+                            "name": "M6 Locknut",
+                            "x": 0.1456808199121523,
+                            "y": 0.681992337164751,
+                            "uniqueID": 773444,
+                            "projectID": "267627116",
+                            "ioValues": []
+                        },
+                        {
+                            "atomType": "Circle",
+                            "name": "Circle",
+                            "x": 0.376281112737921,
+                            "y": 0.6436781609195402,
+                            "uniqueID": 958711,
+                            "ioValues": [
+                                {
+                                    "name": "diameter",
+                                    "ioValue": 10
+                                }
+                            ]
+                        },
+                        {
+                            "atomType": "Output",
+                            "name": "Output",
+                            "x": 0.9853587115666179,
+                            "y": 0.5,
+                            "ioValues": []
+                        }
+                    ],
+                    "allConnectors": [],
+                    "fileTypeVersion": 1
                 },
                 {
                     "atomType": "Output",
