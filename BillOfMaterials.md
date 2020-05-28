@@ -2,8 +2,10 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|M6 Locknut|4|$0.20|https://www.mcmaster.com/90576A115|
+|M6x25 Bolt|4|$1.31|https://www.mcmaster.com/92095A242|
 |20mm Shaft Support|2|$4.00|https://www.mcwww.example.commaster.com/62645k42|
 |20mm Linear Rod|2|$4.00|www.example.com|
-|Total: |4|$8.00| |
+|Total: |12|$9.51| |
 
- 3xCOG MSRP: $24.00
+ 3xCOG MSRP: $28.52
