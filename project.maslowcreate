@@ -91,9 +91,9 @@
                 },
                 {
                     "atomType": "Molecule",
-                    "name": "Molecule",
-                    "x": 0.14714494875549047,
-                    "y": 0.8199233716475096,
+                    "name": "Hardware",
+                    "x": 0.06808199121522694,
+                    "y": 0.8390804597701149,
                     "uniqueID": 852184,
                     "ioValues": [],
                     "topLevel": false,
