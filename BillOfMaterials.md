@@ -2,11 +2,13 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|8mm Lead Screw|1|$5.00|https://www.amazon.com/Drillpro-400mm-Lead-Screw-Printer/dp/B017AR5QBS|
 |DC Gear Motor|1|$16.99|https://www.amazon.com/Greartisan-Electric-Reduction-Eccentric-Diameter/dp/B0745YDSJS|
+|8mm Shaft Coupler|1|$2.70|https://www.amazon.com/WEIJ-Coupling-Diameter-Aluminum-Connector/dp/B07MBGP5BP|
 |M6 Locknut|4|$0.20|https://www.mcmaster.com/90576A115|
 |M6x25 Bolt|4|$1.31|https://www.mcmaster.com/92095A242|
 |20mm Shaft Support|2|$4.00|https://www.mcwww.example.commaster.com/62645k42|
 |20mm Linear Rod|2|$4.00|www.example.com|
-|Total: |13|$26.50| |
+|Total: |15|$34.20| |
 
- 3xCOG MSRP: $79.49
+ 3xCOG MSRP: $102.59
